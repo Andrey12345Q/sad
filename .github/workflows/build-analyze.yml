@@ -1,7 +1,5 @@
 name: PVS-Studio build analysis
-
 on: push
-
 jobs:
   build-analyze:
     runs-on: ubuntu-latest
